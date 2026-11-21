@@ -5,7 +5,7 @@
 
 <p align="left">My name is Blake and I'm from WV</p>
 
-</div> <img src="fairylights.svg" width="100%" alt="">
+
 
 ###
 
